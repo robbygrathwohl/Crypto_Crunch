@@ -1,0 +1,10 @@
+{
+  "poloniex": {
+    "key":  "example_key",
+    "secret": "example_secret"
+  },
+  "bittrex": {
+    "key": "example_key",
+    "secret": "example_secret"
+  }
+}
